@@ -12,5 +12,5 @@ The 12 PNG files for the chess piece icons must be present in /assets/images.
 
 # Credits
 
-Designed and Written by Jake Brookes
+Designed and Written by Jake Brookes \n
 Chess Icon images by Wikimedia user CBurnett (https://commons.wikimedia.org/wiki/Category:PNG_chess_pieces/Standard_transparent)
